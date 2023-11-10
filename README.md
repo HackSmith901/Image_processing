@@ -12,3 +12,5 @@ The `ssd_mobilenet` folder contains the pre-trained model files needed:
 - `coco_names.txt` - Class name labels 
 
 To run on a sample video:
+
+![Sample Video](sample.mp4)
